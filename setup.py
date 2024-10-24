@@ -1,6 +1,7 @@
 from setuptools import setup
 
 setup(
+    job = 'phani',
     name='simpleblogging',
     version='2.0.13',
     packages=['simple'],
